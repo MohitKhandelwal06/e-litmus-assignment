@@ -4,13 +4,6 @@
 
 <b>P.S.</b> This project has been developed for learning purposes, and it has nothing to do with the original Application.
 
-![Capture](https://user-images.githubusercontent.com/74593609/149673367-7058b775-e3e5-487b-9aa6-47f556fa5739.JPG)<br>
-![Capture2](https://user-images.githubusercontent.com/74593609/149673372-f44cb3a3-5057-49b8-9e90-bc3b02259181.JPG)<br>
-![image](https://user-images.githubusercontent.com/74593609/149673313-284d6186-bba7-4473-ab72-757be2c1afd7.png)<br>
-![image](https://user-images.githubusercontent.com/74593609/149673320-46460bac-bca5-4988-9ffd-a93a3ba485c1.png)<br>
-![image](https://user-images.githubusercontent.com/74593609/149673322-48da151e-bc38-4080-94db-2578aee70bb1.png)
-
-
 ### Task Include : 
 1.User Flow:<br>
         -Register<br>
